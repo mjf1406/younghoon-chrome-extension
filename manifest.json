@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Message Board Button Mover",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "Moves the action buttons on the message board to a more sensible location.",
     "permissions": ["scripting"],
     "host_permissions": ["https://www.younghoon.es.kr/*"],
