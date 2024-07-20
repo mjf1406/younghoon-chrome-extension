@@ -28,3 +28,4 @@ This extension relocates the message board action buttons from the bottom of the
 
 1. Why is this not on the Chrome Web Store?
     - Because it costs 5 USD to activate an account. Maybe we can get YHES to pay for it? 🤞
+2.
