@@ -6,11 +6,11 @@ This extension relocates the message board action buttons from the bottom of the
 
 ### Before
 
-![Before Image](screenshots\before.png)
+![Before Image](screenshots/before.png)
 
 ### After
 
-![After Image](screenshots\after.png)
+![After Image](screenshots/after.png)
 
 ## FAQ
 
